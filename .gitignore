@@ -1,0 +1,24 @@
+# Datos crudos (miles de CSVs, ~13MB — excluir para mantener repo limpio)
+data/raw/
+
+# Logs de extracción
+data/extraction.log
+data/*.log
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de R
+*.Rout

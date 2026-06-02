@@ -1,0 +1,4 @@
+Grupo,N_features,Accuracy_RF,Accuracy_LR
+Temporada Regular,2,0.6,1
+Playoffs pre-Finals,4,0.8,0.6
+Mixto (LASSO),4,1,0.8

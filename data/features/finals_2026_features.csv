@@ -1,0 +1,3 @@
+team,team_id,season,playoff_net_rating,playoff_tov_pct,clutch_tov,pre_finals_win_pct,games_played,avg_point_diff_pre,reg_diff_pg,reg_win_pct,note
+SAS,1610612759,2025-26,10.4,15.1667,2.2,0.6667,18,10.28,8.3,0.756,playoff_net_rating from NBAstuffer; clutch/tov from API
+NYK,1610612752,2025-26,20.1,13.9,1.5,0.8571,14,19.36,6.4,0.646,playoff_net_rating from NBAstuffer; clutch/tov from API

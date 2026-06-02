@@ -1,0 +1,4 @@
+model,accuracy,n_test
+Logistic Regression,0.8,6
+Random Forest,1,6
+XGBoost,0.8,6
